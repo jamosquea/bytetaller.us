@@ -1,0 +1,383 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://bytetaller.com" ftp_rootfolder="/public_html" exportTarget="FTP" domain="www.bytetaller.com" resolutions="1x" timestamp="1593818364225">
+  <folder name="css">
+    <file name="site_global.css" crc="3791663390"/>
+    <file name="master_a-p_g_-maestra.css" crc="154597134" ref="features:all-services"/>
+    <file name="master_b-p_g_-maestra.css" crc="505469872" ref="about:pc-repairs:contact:services:mac-repairs:testimonials:virus-removal:it-outsourcing:new-pc:data-recovery:smart_security"/>
+    <file name="features.css" crc="3787013463" ref="features"/>
+    <file name="about.css" crc="145961339" ref="about"/>
+    <file name="testimonials.css" crc="466769006" ref="testimonials"/>
+    <file name="index.css" crc="485601167" ref="index"/>
+    <file name="pc-repairs.css" crc="4123675470" ref="pc-repairs"/>
+    <file name="all-services.css" crc="4210222627" ref="all-services"/>
+    <file name="contact.css" crc="3975385975" ref="contact"/>
+    <file name="services.css" crc="320706723" ref="services"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3974323981" ref="all-services:features"/>
+    <file name="nomq_preview_master_b-p_g_-maestra.css" crc="3824530138" ref="services:mac-repairs:testimonials:virus-removal:about:it-outsourcing:contact:new-pc:pc-repairs:data-recovery:smart_security"/>
+    <file name="mac-repairs.css" crc="207853502" ref="mac-repairs"/>
+    <file name="nomq_testimonials.css" crc="3824530138" ref="testimonials"/>
+    <file name="nomq_features.css" crc="3901659719" ref="features"/>
+    <file name="virus-removal.css" crc="4040224510" ref="virus-removal"/>
+    <file name="it-outsourcing.css" crc="4040224510" ref="it-outsourcing"/>
+    <file name="new-pc.css" crc="3985713120" ref="new-pc"/>
+    <file name="data-recovery.css" crc="3960847742" ref="data-recovery"/>
+    <file name="smart_security.css" crc="4209758181" ref="smart_security"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="museutils.js" crc="3939489907" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="webpro.js" crc="3856315280" ref="index:services:about:contact:pc-repairs:testimonials:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="services:all-services:features"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="features"/>
+  </folder>
+  <folder name="images">
+    <file name="diag01a.png" crc="3809115859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:services:all-services:features"/>
+    <file name="diag02a.png" crc="501709179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diag01b.png" crc="4131828278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logobyte.png" crc="279149180" seo="true" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security">
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+    </file>
+    <file name="serv01.png" crc="4074928099" seo="true" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security">
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+    </file>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:services:all-services:testimonials:features:about:contact:pc-repairs:data-recovery:new-pc:mac-repairs:virus-removal:it-outsourcing:smart_security">
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="new-pc" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="sin-título-15" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="all-services" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="mac-repairs" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="virus-removal" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="pc-repairs" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="data-recovery" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="it-outsourcing" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+      <caption webpage="smart_security" alt=""/>
+    </file>
+    <file name="ser01-u2961-fr.png" crc="4031160352" ref="services:all-services:features"/>
+    <file name="captcha.png" crc="362548909" ref="services"/>
+    <file name="image-21.png" crc="97871873" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="3395668.jpg" crc="4232382279" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="kaspersky_endpoint_disponible_app.jpg" crc="358598933" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="plan3.png" crc="380356498" seo="true" ref="all-services">
+      <caption webpage="all-services" alt=""/>
+    </file>
+    <file name="price_1.png" crc="97083829" seo="true" ref="all-services">
+      <caption webpage="all-services" alt=""/>
+    </file>
+    <file name="plan2.png" crc="3833555055" seo="true" ref="all-services">
+      <caption webpage="all-services" alt=""/>
+    </file>
+    <file name="image-22.png" crc="310650837" seo="true" ref="all-services">
+      <caption webpage="all-services" alt=""/>
+    </file>
+    <file name="logos-byte-sleepy.png" crc="33244989" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="177308933" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="event.jpg" crc="3827345612" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="garmy-sports-1.png" crc="4111435474" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="descarga (1).jpg" crc="4118281754" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="descarga (1)2.jpg" crc="331383930" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="descarga (2).jpg" crc="248352076" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="logo-mf.jpg" crc="66726040" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="captcha2.png" crc="362548909" ref="testimonials"/>
+    <file name="wh.png" crc="314808664" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="sk.png" crc="3886750855" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fa.png" crc="3775744484" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ins.png" crc="4132364263" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="captcha4.png" crc="362548909" ref="contact"/>
+    <file name="image-24.jpg" crc="272493049" seo="true" ref="pc-repairs">
+      <caption webpage="pc-repairs" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3765978839" ref="index:services"/>
+    <file name="captcha5.png" crc="362548909" ref="pc-repairs"/>
+    <file name="captcha6.png" crc="362548909" ref="data-recovery"/>
+    <file name="feature-image.jpg" crc="3795735289" seo="true" ref="data-recovery">
+      <caption webpage="data-recovery" alt=""/>
+    </file>
+    <file name="como-reparar-un-disco-duro.jpg" crc="487198819" seo="true" ref="data-recovery">
+      <caption webpage="data-recovery" alt=""/>
+    </file>
+    <file name="captcha7.png" crc="362548909" ref="new-pc"/>
+    <file name="what-should-i-upgrade-on-my-pc-the-components-to-consider.jpg" crc="321032851" seo="true" ref="new-pc">
+      <caption webpage="new-pc" alt=""/>
+    </file>
+    <file name="captcha8.png" crc="362548909" ref="mac-repairs"/>
+    <file name="apple-macbook-pro-13-inch-2009-2012-unibody-repair-service-dallas-texas.jpg" crc="469588196" seo="true" ref="mac-repairs">
+      <caption webpage="mac-repairs" alt=""/>
+    </file>
+    <file name="263a381f2b3d5e011f688fc378c44ecd.jpg" crc="3886939702" seo="true" ref="mac-repairs">
+      <caption webpage="mac-repairs" alt=""/>
+    </file>
+    <file name="captcha9.png" crc="362548909" ref="virus-removal"/>
+    <file name="captcha10.png" crc="362548909" ref="it-outsourcing"/>
+    <file name="ip-telephony-mobile2.png" crc="318898223" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="fanvil-x7-ip-phone.jpg" crc="440983214" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="3866837263" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="issabel.png" crc="4261782600" seo="true" ref="features">
+      <caption webpage="features" alt=""/>
+      <caption webpage="features" alt=""/>
+    </file>
+    <file name="images.jpg" crc="3862904911" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="unnamed (2).png" crc="4273816357" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="captcha3.png" crc="362548909" ref="about"/>
+    <file name="captcha11.png" crc="362548909" ref="smart_security"/>
+    <file name="2711.jpg" crc="4114711683" seo="true" ref="smart_security">
+      <caption webpage="smart_security" alt=""/>
+    </file>
+    <file name="home-security-camera-monitors-in-police-office-vector-30958968.jpg" crc="104752145" seo="true" ref="smart_security">
+      <caption webpage="smart_security" alt=""/>
+    </file>
+    <file name="02.jpg" crc="3902168372" seo="true" ref="smart_security">
+      <caption webpage="smart_security" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4010253436" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="services.html" crc="142205556" seo="true" mt="1593386179242" redirect="true"/>
+  <file name="all-services.html" crc="4289010019" seo="true" mt="1593376557247" redirect="true"/>
+  <file name="testimonials.html" crc="175883453" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="features.html" crc="4117308845" seo="true" mt="1593818137329" redirect="true"/>
+  <file name="about.html" crc="318956695" seo="true" mt="1593818288533" redirect="true"/>
+  <file name="contact.html" crc="492163707" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="pc-repairs.html" crc="3880287979" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="data-recovery.html" crc="140967950" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="new-pc.html" crc="4055199800" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="mac-repairs.html" crc="4204162086" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="virus-removal.html" crc="320752540" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="it-outsourcing.html" crc="3991587842" seo="true" mt="1588466332972" redirect="true"/>
+  <file name="smart_security.html" crc="364522747" seo="true" mt="1593818232230" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="rss-paragraph" uid="U3903"/>
+    <paragraphStyle className="rss-date" uid="U3908"/>
+    <paragraphStyle className="rss-title" uid="U3915"/>
+    <characterStyle className="Menu-Buttons" uid="U995"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U62">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Services" filename="services.html" muse_href="page:U1906" master="U2951">
+        <breakpoint uid="U1896" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="B-Pág. maestra" master="U62" uid="U2951">
+        <breakpoint uid="U2952" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="All Services" filename="all-services.html" muse_href="page:U2400" master="U72">
+        <breakpoint uid="U2390" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="A-Pág. maestra" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Testimonials" filename="testimonials.html" muse_href="page:U2480" master="U2951">
+        <breakpoint uid="U2470" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Features" filename="features.html" muse_href="page:U2492" master="U72">
+        <breakpoint uid="U2482" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3801" maxwidth="1160" minwidth="961" squishy="false"/>
+      </page>
+      <page name="About" filename="about.html" muse_href="page:U2504" master="U2951">
+        <breakpoint uid="U2494" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U2516" master="U2951">
+        <breakpoint uid="U2506" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Pc Repairs" filename="pc-repairs.html" muse_href="page:U2776" master="U2951">
+        <breakpoint uid="U2766" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Data Recovery" filename="data-recovery.html" muse_href="page:U3602" master="U2951">
+        <breakpoint uid="U3592" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="New PC" filename="new-pc.html" muse_href="page:U3646" master="U2951">
+        <breakpoint uid="U3636" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Mac repairs" filename="mac-repairs.html" muse_href="page:U3699" master="U2951">
+        <breakpoint uid="U3689" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Virus Removal" filename="virus-removal.html" muse_href="page:U3769" master="U2951">
+        <breakpoint uid="U3759" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="IT Outsourcing" filename="it-outsourcing.html" muse_href="page:U3781" master="U2951">
+        <breakpoint uid="U3771" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="smart_security" filename="smart_security.html" muse_href="page:U4911" master="U2951">
+        <breakpoint uid="U4901" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
